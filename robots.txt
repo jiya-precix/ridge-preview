@@ -1,0 +1,5 @@
+# Preview build. This is a temporary copy of a site whose real home is
+# https://ridgeorthopaedics.com.sg — nothing here should be indexed, and every
+# page also carries its own noindex tag.
+User-agent: *
+Disallow: /
